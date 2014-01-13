@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Taudada's Blog]]></title>
-  <link href="http://taudada.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Robotics | Taudada's Blog]]></title>
+  <link href="http://taudada.github.io/blog/categories/robotics/atom.xml" rel="self"/>
   <link href="http://taudada.github.io/"/>
   <updated>2014-01-13T18:44:21+00:00</updated>
   <id>http://taudada.github.io/</id>
