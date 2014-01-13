@@ -4,7 +4,7 @@
   <title><![CDATA[Taudada's Blog]]></title>
   <link href="http://taudada.github.io/atom.xml" rel="self"/>
   <link href="http://taudada.github.io/"/>
-  <updated>2014-01-13T18:00:49+00:00</updated>
+  <updated>2014-01-13T18:27:53+00:00</updated>
   <id>http://taudada.github.io/</id>
   <author>
     <name><![CDATA[Taudada]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[123]]></title>
+    <link href="http://taudada.github.io/blog/2014/01/13/123/"/>
+    <updated>2014-01-13T18:19:28+00:00</updated>
+    <id>http://taudada.github.io/blog/2014/01/13/123</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
