@@ -4,7 +4,7 @@
   <title><![CDATA[Taudada's Blog]]></title>
   <link href="http://taudada.github.io/atom.xml" rel="self"/>
   <link href="http://taudada.github.io/"/>
-  <updated>2014-02-09T17:44:33+00:00</updated>
+  <updated>2014-02-09T17:50:55+00:00</updated>
   <id>http://taudada.github.io/</id>
   <author>
     <name><![CDATA[Taudada]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-02-09T16:41:04+00:00</updated>
     <id>http://taudada.github.io/blog/2014/02/09/ejb</id>
     <content type="html"><![CDATA[<p>EJB is in a business component tier!</p>
+
+<blockquote><p>Don&#8217;t Panic.</p><footer><strong>Douglas Adams</strong> <cite>The Hitchhiker&#8217;s Guide to the Galaxy</cite></footer></blockquote>
+
 ]]></content>
   </entry>
   
