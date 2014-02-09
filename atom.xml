@@ -4,7 +4,7 @@
   <title><![CDATA[Taudada's Blog]]></title>
   <link href="http://taudada.github.io/atom.xml" rel="self"/>
   <link href="http://taudada.github.io/"/>
-  <updated>2014-02-09T17:42:37+00:00</updated>
+  <updated>2014-02-09T17:44:33+00:00</updated>
   <id>http://taudada.github.io/</id>
   <author>
     <name><![CDATA[Taudada]]></name>
@@ -18,11 +18,7 @@
     <link href="http://taudada.github.io/blog/2014/02/09/ejb/"/>
     <updated>2014-02-09T16:41:04+00:00</updated>
     <id>http://taudada.github.io/blog/2014/02/09/ejb</id>
-    <content type="html"><![CDATA[<p>rem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
-tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendreri\
-t quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, int\
-erdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius n\
-ibh eu diam tempor rhoncus</p>
+    <content type="html"><![CDATA[<p>EJB is in a business component tier!</p>
 ]]></content>
   </entry>
   
