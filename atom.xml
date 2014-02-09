@@ -4,7 +4,7 @@
   <title><![CDATA[Taudada's Blog]]></title>
   <link href="http://taudada.github.io/atom.xml" rel="self"/>
   <link href="http://taudada.github.io/"/>
-  <updated>2014-02-09T17:06:03+00:00</updated>
+  <updated>2014-02-09T17:11:47+00:00</updated>
   <id>http://taudada.github.io/</id>
   <author>
     <name><![CDATA[Taudada]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[EJB]]></title>
+    <title type="html"><![CDATA[Ejb]]></title>
     <link href="http://taudada.github.io/blog/2014/02/09/ejb/"/>
-    <updated>2014-02-09T16:41:04+00:00</updated>
+    <updated>2014-02-09T00:00:00+00:00</updated>
     <id>http://taudada.github.io/blog/2014/02/09/ejb</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>&ndash;
+layout: post
+title: &ldquo;EJB&rdquo;
+date: 2014-02-09 16:41:04 +0000
+comments: true</p>
+
+<h2>categories: </h2>
+
+<p>Content</p>
+
 ]]></content>
   </entry>
   
